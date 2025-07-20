@@ -44,7 +44,7 @@
 - **CBR Worker Login**: Community health workers
 - Demo credentials: `CBR001 / demo123`
 
-### 🌍 Multilingual Support
+### 🌍 Multilingual Support 
 - Available in **English**, **Hindi**, and **Telugu**
 
 ---
